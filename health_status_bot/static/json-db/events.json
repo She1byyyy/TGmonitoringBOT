@@ -1,0 +1,410 @@
+[
+    {
+        "timestamp": 1747766674,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747766683,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747766692,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747766701,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747766710,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747766719,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747766728,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747766737,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747766746,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747766751,
+        "ping_задержка": 29.223918914794922,
+        "event": "info",
+        "event_msg": "Сервер работает нормально"
+    },
+    {
+        "timestamp": 1747766756,
+        "ping_задержка": 22.32193946838379,
+        "event": "info",
+        "event_msg": "Сервер работает нормально"
+    },
+    {
+        "timestamp": 1747766761,
+        "ping_задержка": 22.60732650756836,
+        "event": "info",
+        "event_msg": "Сервер работает нормально"
+    },
+    {
+        "timestamp": 1747766767,
+        "ping_задержка": 24.62458610534668,
+        "event": "info",
+        "event_msg": "Сервер работает нормально"
+    },
+    {
+        "timestamp": 1747766772,
+        "ping_задержка": 5.847930908203125,
+        "event": "info",
+        "event_msg": "Сервер работает нормально"
+    },
+    {
+        "timestamp": 1747766777,
+        "ping_задержка": 3.6520957946777344,
+        "event": "info",
+        "event_msg": "Сервер работает нормально"
+    },
+    {
+        "timestamp": 1747766782,
+        "ping_задержка": 4.82177734375,
+        "event": "info",
+        "event_msg": "Сервер работает нормально"
+    },
+    {
+        "timestamp": 1747766787,
+        "ping_задержка": 4.75001335144043,
+        "event": "info",
+        "event_msg": "Сервер работает нормально"
+    },
+    {
+        "timestamp": 1747766792,
+        "ping_задержка": 8.63337516784668,
+        "event": "info",
+        "event_msg": "Сервер работает нормально"
+    },
+    {
+        "timestamp": 1747766797,
+        "ping_задержка": 29.971837997436523,
+        "event": "info",
+        "event_msg": "Сервер работает нормально"
+    },
+    {
+        "timestamp": 1747766802,
+        "ping_задержка": 5.864858627319336,
+        "event": "info",
+        "event_msg": "Сервер работает нормально"
+    },
+    {
+        "timestamp": 1747766807,
+        "ping_задержка": 27.01258659362793,
+        "event": "info",
+        "event_msg": "Сервер работает нормально"
+    },
+    {
+        "timestamp": 1747766812,
+        "ping_задержка": 11.154413223266602,
+        "event": "info",
+        "event_msg": "Сервер работает нормально"
+    },
+    {
+        "timestamp": 1747766817,
+        "ping_задержка": 20.913124084472656,
+        "event": "info",
+        "event_msg": "Сервер работает нормально"
+    },
+    {
+        "timestamp": 1747766826,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747766835,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747766844,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747766853,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747766862,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747766871,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747766880,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747766889,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747767794,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747767803,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747767812,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747767821,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747767830,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747767839,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747767849,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747767858,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747767867,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747767876,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747767885,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747767894,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747767903,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747767912,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747767921,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747767930,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747767940,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747767949,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747767958,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747767967,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747767976,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747767985,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747767994,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747768003,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747768012,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747768021,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747768030,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747768039,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747768049,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747768058,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747768067,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747768076,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747768085,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747768094,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747768103,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747768112,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    },
+    {
+        "timestamp": 1747768154,
+        "ping_задержка": null,
+        "event": "alert",
+        "event_msg": "Проблемы с сервером"
+    }
+]
